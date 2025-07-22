@@ -1,6 +1,12 @@
 # 👋 Hey, I'm Sameed!
 
-I'm an aspiring *AI/ML Engineer* on a mission to build real-world projects, learn deeply, and grow publicly.
+🚀 An Aspiring AI/ML Engineer | 🧠 Self-Taught Python Developer | 🛠 Projects > Perfection
+
+Fueled by raw curiosity, I’m turning ideas into code — one focused rep at a time. I build publicly, learn relentlessly, and document everything from day one.
+
+No shortcuts. Just deep work, daily consistency, and unapologetic ambition.
+
+🎯 “Show up daily. Stay curious. The rest will follow.”
 
 ## 🚀 Current Focus
 - 📚 Learning Python & core programming concepts
