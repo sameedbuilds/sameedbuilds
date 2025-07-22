@@ -8,7 +8,7 @@ I'm an aspiring *AI/ML Engineer* on a mission to build real-world projects, lear
 - 🧠 Preparing for machine learning fundamentals
 
 ## 🧰 Projects So Far
-Check out my [Python Mini Projects](https://github.com/yourusername/python-mini-projects)
+Check out my [Python Mini Projects](https://github.com/sameedbuilds/python-mini-projects)
 
 ## 🎯 Goals
 - ✅ Master Python basics
