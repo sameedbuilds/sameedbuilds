@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Sameed!
 
-<!--
-**sameedbuilds/sameedbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring *AI/ML Engineer* on a mission to build real-world projects, learn deeply, and grow publicly.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- 📚 Learning Python & core programming concepts
+- 🔨 Building mini-projects to practice problem-solving
+- 🧠 Preparing for machine learning fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Projects So Far
+Check out my [Python Mini Projects](https://github.com/yourusername/python-mini-projects)
+
+## 🎯 Goals
+- ✅ Master Python basics
+- 🧪 Learn NumPy, Pandas, Matplotlib
+- 🤖 Start ML with scikit-learn by September
+- 💻 Build a clean GitHub portfolio
+
+---
+
+🔗 *Let’s Connect!*  
+(Adding socials soon...)
