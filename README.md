@@ -14,7 +14,9 @@ No shortcuts. Just deep work, daily consistency, and unapologetic ambition.
 - 🧠 Preparing for machine learning fundamentals
 
 ## 🧰 Projects So Far
-Check out my [Python Mini Projects](https://github.com/sameedbuilds/python-mini-projects)
+Check out my 
+[Python Mini Projects](https://github.com/sameedbuilds/python-mini-projects)
+[Python Mini Projects](https://github.com/sameedbuilds/ecommerce-cart-stimulator)
 
 ## 🎯 Goals
 - ✅ Master Python basics
